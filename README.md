@@ -2,9 +2,6 @@
 
 **Ingeniero Cloud** con sólida experiencia en la implementación y gestión de infraestructura en la nube en AWS y Azure. Me entusiasma trabajar con tecnologías líderes e impulsar la innovación, utilizando mis conocimientos y habilidades para ayudar a las organizaciones a lograr mayor eficiencia, confiabilidad y escalabilidad en sus operaciones de TI. Orientado al logro de objetivos y resolución de problemas.
 
-- **Email:** acaycho.dominguez@gmail.com
-- **Cel:** +51 981877682
-- **Ubicación:** Lima, Perú
 
 ---
 
